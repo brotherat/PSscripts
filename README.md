@@ -1,3 +1,3 @@
-# PSscripts
+# Powershell scripts
 
-Installs lataest version of Notepad++ on Windows
+Installs latest version of Notepad++ on Windows
